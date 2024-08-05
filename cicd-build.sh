@@ -1,4 +1,4 @@
-#!/bin/bash -xe
+git in#!/bin/bash -xe
 APP=$1
 ROOT=$(pwd)
 
